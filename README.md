@@ -1,21 +1,5 @@
 # Data Analysis Project
 
-## **Project Structure**
-
-data-analysis-project/
-│
-├── data_structure_analysis.py
-│   ├── Import statements
-│   ├── Data generation and manipulation
-│   ├── Data analysis
-│   └── Results presentation
-│
-└── temperature_analysis.py
-├── Import statements
-├── Data loading and preprocessing
-├── Data analysis and visualization
-└── Results presentation
-
 # **Data Structure Analysis Documentation**
 
 ## **Overview**
